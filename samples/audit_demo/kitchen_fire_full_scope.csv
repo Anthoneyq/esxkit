@@ -1,0 +1,19 @@
+group,code,description,quantity,unit,unit_price
+Kitchen,DRY|DW|-,Remove smoke-damaged drywall,28,SQ,41.20
+Kitchen,DRY|DW|+,Replace drywall - 1/2 in,28,SQ,58.90
+Kitchen,DRY|TX|+,Knockdown texture,28,SQ,35.00
+Kitchen,PNT|PRM|+,Prime and paint - walls and ceiling,28,SQ,52.00
+Kitchen,PNT|MASK|+,Masking and protection - floors and adjacent surfaces,1,EA,385.00
+Kitchen,PNT|MN,Paint labor minimum,1,EA,275.00
+Kitchen,FLR|VIN|-,Remove sheet vinyl,15,SQ,28.00
+Kitchen,FLR|VIN|+,Replace sheet vinyl,15,SQ,44.00
+Kitchen,CAB|BASE|-,Remove base cabinets,12,LF,18.00
+Kitchen,CAB|BASE|+,Replace base cabinets,12,LF,310.00
+Kitchen,CNT|LAM|&,Remove and replace laminate countertop,12,LF,95.00
+Kitchen,ELE|RECP|+,Replace smoke-damaged receptacles and switches,6,EA,85.00
+Kitchen,ELE|MN,Electrical labor minimum,1,EA,180.00
+Kitchen,PLM|STOP|+,Replace angle stops and supply lines,2,EA,120.00
+Kitchen,CLN|HEAVY|+,Heavy smoke cleaning - structure,40,HR,68.00
+Kitchen,CLN|CNTM|+,Content manipulation and handling,6,HR,55.00
+Kitchen,DMO|DUMP|+,Dumpster haul and disposal,1,EA,595.00
+Kitchen,DMO|SFP|+,Air scrubber - soot filtration,3,DA,145.00

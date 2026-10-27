@@ -1,0 +1,10 @@
+group,code,description,quantity,unit,unit_price
+Roof,RFG|300S|-,Tear off haul and dispose of comp. shingles - Laminated,6.84,SQ,59.58
+Roof,RFG|300S|+,Laminated - comp. shingle rfg. - w/ felt,8,SQ,251.75
+Roof,RFG|FLCH|&,Chimney flashing,1,EA,403.79
+Roof,RFG|VEL|+,Pipe jack flashing,2,EA,35.5
+Roof,SFG|DRED|+,Drip edge,92,LF,2.35
+Roof,DMO|DUMP|+,Dumpster haul and disposal,1,EA,595.0
+Interior,PNT|MN,Paint labor minimum,1,EA,275.0
+Interior,DRY|DW|+,Drywall - 1/2 inch,4.5,SQ,58.9
+Interior,ELE|MN,Electrical labor minimum,1,EA,180.0

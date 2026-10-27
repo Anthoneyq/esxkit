@@ -1,0 +1,12 @@
+group,code,description,quantity,unit,unit_price
+Kitchen,DRY|DW|-,Remove smoke-damaged drywall,28,SQ,41.20
+Kitchen,DRY|TX|+,Knockdown texture,0,SQ,35.00
+Kitchen,PNT|PRM|+,Prime and paint - walls and ceiling,28,SQ,52.00
+Kitchen,FLR|VIN|-,Remove sheet vinyl,15,SQ,28.00
+Kitchen,FLR|VIN|+,Replace sheet vinyl,0,SQ,44.00
+Kitchen,CAB|BASE|+,Replace base cabinets,12,LF,310.00
+Kitchen,CNT|LAM|&,Remove and replace laminate countertop,12,LF,95.00
+Kitchen,CLN|SMK|+,Light smoke cleaning - structure,20,HR,52.00
+Kitchen,DMO|DUMP|+,Dumpster haul and disposal,1,EA,595.00
+General,GEN|RECP|+,Replace receptacles and switches,6,EA,85.00
+General,GEN|STOP|+,Replace angle stops and supply lines,2,EA,120.00

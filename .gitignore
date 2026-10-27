@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+samples/out/
+.venv/
+# internal strategy research — stays local, not part of the public repo
+Research/
+*.report.md
